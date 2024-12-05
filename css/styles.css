@@ -247,11 +247,11 @@ main {
     background-color: #404BBF;
 }
 
-.Advantages {
+.advantages {
     padding: 120px 0;
 }
 
-.Advantages-title {
+.advantages-title {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -265,20 +265,20 @@ main {
     overflow: hidden;
   }
 
-.container .Advantages-ul {
+.container .advantages-ul {
     display: flex;
     padding-left: 0;
     padding-right: 0;
     justify-content: center;
 }
 
-.Advantages-ul {
+.advantages-ul {
     text-align: left;
     display: flex;
     gap: 24px;
 }
 
-.Advantages-li {
+.advantages-li {
     width: calc((100%-72px)/4);
 }
 
@@ -319,7 +319,7 @@ main {
 
 .our-team-names {
     text-align: center;
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .our-team-p {
